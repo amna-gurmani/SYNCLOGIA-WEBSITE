@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+ }
+
+.font-family{
+   font-family: 'Poppins'; 
+  }
+
+ .border-behind{
+    position: reative;
+    
+ }
+
+ .bg-img1{
+    position: absolute;
+    z-index: 2;
+ }
+
+ .bg-img2{
+    position: absolute;
+    z-index: 1;
+ }
+
+ .bg-img3{
+   position: absolute;
+  
+}
+ .bg-img4{
+   position: absolute;
+   z-index:1 ;
+}
+ .header-position{
+    position: absolute;
+    z-index: 4;
+ }
+
+ .section-1-position{
+   position: absolute;
+   z-index: 3;
+}
+
