@@ -40,4 +40,27 @@
    position: absolute;
    z-index: 3;
 }
+.mdl{
+   margin-top: 0x;
+}
+
+
+@media  (min-width: 890px) and (max-width: 1023px){
+.mdl-s-1{
+   display: flex;
+   row-gap: 8rem ;
+
+  }
+  
+.mdl-s-2{
+   margin-top: 65rem;
+  }
+
+.mdl-s-3{
+   margin-top: 7rem;
+}
+.mdl-s-4{
+   margin-top:3rem;
+}
+}
 
